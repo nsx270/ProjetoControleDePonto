@@ -1,6 +1,6 @@
 # HelpApp
 
-A new Flutter project.
+Projeto de aplicativo mobile feito em flutterflow.
 
 ## Getting Started
 
