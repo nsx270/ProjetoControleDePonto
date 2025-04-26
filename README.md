@@ -1,2 +1,2 @@
-# ProjetosUMC
-Projetos realizados na universidade
+# ControleDePonto.app
+Projeto realizado na universidade
